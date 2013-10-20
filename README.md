@@ -1,4 +1,4 @@
 hellogame
 =========
 
-trying a game
+trying a game using libgdx
