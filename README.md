@@ -1,4 +1,4 @@
 hellogame
 =========
 
-game using libgdx
+libgdx game
